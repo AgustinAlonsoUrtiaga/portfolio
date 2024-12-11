@@ -10,7 +10,7 @@ const projects = [
     title: "Real Terra",
     description: "A modern e-commerce platform built with NextJs and NodeJs",
     image: "/realTerraLogo.png",
-    link: "https://terra-pink-psi.vercel.app/"
+    link: "https://www.realterrainvest.com/"
   },
   {
     title: "Rick & Morty",
